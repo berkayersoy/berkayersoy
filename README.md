@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Machine Learning**
 
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif">
 
 - 📫 How to reach me: **berkayersoy17@gmail.com**
 

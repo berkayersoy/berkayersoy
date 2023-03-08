@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Berkay!</h1>
 <h3 align="center">Junior Data Analyst based in Paris.</h3>
 
-- 🔭 I’m currently working on a personal project: **k-means clustering Spotify song recommender.**
+Last-personal project done: **k-means clustering Spotify song recommender.**
+
+- 🔭 I’m actually currently working on another personal project: Book recommender or/and book average rating guesser from book reviews machine learning model. (NLP)
 
 - 🌱 I’m currently learning: **Machine Learning**
 

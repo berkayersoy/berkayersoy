@@ -3,7 +3,7 @@
 
 Last-personal project done: **k-means clustering Spotify song recommender.**
 
-- 🔭 I’m actually currently working on another personal project: Book recommender or/and book average rating guesser from book reviews machine learning model. (NLP)
+- 🔭 I’m actually currently working on another personal project: Book genre guesser from book description machine learning model. (NLP)
 
 - 🌱 I’m currently learning: **Machine Learning**
 

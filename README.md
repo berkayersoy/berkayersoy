@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Berkay!</h1>
 <h3 align="center">Junior Data Analyst based in Paris.</h3>
 
-Last-personal projects accomplished: **k-means clustering Spotify song recommender** and **NLP and Machine Learning Based Model for Genre Classification of Books**
+- Last-personal projects accomplished: **k-means clustering Spotify song recommender** and **NLP and Machine Learning Based Model for Genre Classification of Books**
 
-🌱 I’m currently learning: **Machine Learning**, and also improving my **SQL skills**.
+- I’m currently learning: **Machine Learning**, and also improving my **SQL skills**.
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif">
 
-📫 How to reach me: **berkayersoy17@gmail.com**
+- How to reach me: **berkayersoy17@gmail.com**
 
-Link to my cv: https://drive.google.com/file/d/1Cjjn6rMkA5QcnV8nuzG6Cu9MAnSCrX9E/view?usp=sharing
+- Link to my cv: https://drive.google.com/file/d/1Cjjn6rMkA5QcnV8nuzG6Cu9MAnSCrX9E/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

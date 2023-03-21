@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Berkay!</h1>
 <h3 align="center">Junior Data Analyst based in Paris.</h3>
 
-- Last-personal project accomplished: **k-means clustering Spotify song recommender.**
+- Last-personal projects accomplished: **k-means clustering Spotify song recommender.** and **NLP and Machine Learning Based Model for Genre Classification of Books**
 
-- 🔭 I’m actually currently working on another personal project: NLP and Machine Learning Based Model for Genre Classification of Books
-
-- 🌱 I’m currently learning: **Machine Learning**
+- 🌱 I’m currently learning: **Machine Learning**, and also improving my SQL skills.
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif">
 

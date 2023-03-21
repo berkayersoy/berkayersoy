@@ -3,7 +3,7 @@
 
 - Last-personal projects accomplished: **k-means clustering Spotify song recommender.** and **NLP and Machine Learning Based Model for Genre Classification of Books**
 
-- 🌱 I’m currently learning: **Machine Learning**, and also improving my SQL skills.
+- 🌱 I’m currently learning: **Machine Learning**, and also improving my **SQL skills**.
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif">
 

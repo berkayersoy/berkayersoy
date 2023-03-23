@@ -9,13 +9,13 @@
 
 
 
-</p>
-How to reach me: berkayersoy17@gmail.com
-<p align="left">
+<h3 align="left">
+How to reach me:</h3> berkayersoy17@gmail.com
 
-</p>
-Link to my cv: [https://drive.google.com/file/d/1Cjjn6rMkA5QcnV8nuzG6Cu9MAnSCrX9E/view?usp=sharing](https://drive.google.com/file/d/1-9AM6ABCIEfRaF-iXOkryL3LT6fnnqiY/view?usp=sharing)
-<p align="left">
+
+<h3 align="left">
+Link to my cv:</h3> https://drive.google.com/file/d/1Cjjn6rMkA5QcnV8nuzG6Cu9MAnSCrX9E/view?usp=sharing](https://drive.google.com/file/d/1-9AM6ABCIEfRaF-iXOkryL3LT6fnnqiY/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

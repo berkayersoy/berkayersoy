@@ -10,7 +10,6 @@
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif">
 
 <br />
-<br />
 
 <h3 align="left">
 How to reach me:</h3> berkayersoy17@gmail.com

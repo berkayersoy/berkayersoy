@@ -11,8 +11,6 @@
 
 <br />
 <br />
-<br />
-<br />
 
 <h3 align="left">
 How to reach me:</h3> berkayersoy17@gmail.com

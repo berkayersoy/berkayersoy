@@ -9,11 +9,13 @@
 
 
 
-How to reach me: **berkayersoy17@gmail.com**
-Link to my cv: [https://drive.google.com/file/d/1Cjjn6rMkA5QcnV8nuzG6Cu9MAnSCrX9E/view?usp=sharing](https://drive.google.com/file/d/1-9AM6ABCIEfRaF-iXOkryL3LT6fnnqiY/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/berkayersoy17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkayersoy17" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/berkayersoy17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkayersoy17" height="30" width="40" /></a>   
+How to reach me: **berkayersoy17@gmail.com**   
+Link to my cv: [https://drive.google.com/file/d/1Cjjn6rMkA5QcnV8nuzG6Cu9MAnSCrX9E/view?usp=sharing](https://drive.google.com/file/d/1-9AM6ABCIEfRaF-iXOkryL3LT6fnnqiY/view?usp=sharing)    
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

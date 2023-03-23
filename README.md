@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay!</h1>
-<h3 align="center">Junior Data Analyst based in Paris.</h3>
+<h3 align="center">Data Analyst with Engineering background based in Paris.</h3>
 
 - Last-personal projects accomplished: **K-means clustering Spotify song recommender** and **NLP and Machine Learning Based Model for Genre Classification of Books**
 

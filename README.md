@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Berkay!</h1>
 <h3 align="center">Data Analyst with Engineering background based in Paris.</h3>
 
-- Last-personal projects accomplished: **K-means clustering Spotify song recommender** and, **NLP and Machine Learning Based Model for Genre Classification of Books**
+- Recent projects: **K-means clustering Spotify song recommender** and, **NLP and ML Based Model for Genre Classification of Books**.
 
-- I’m currently advancing in: **Machine Learning**, and **Advanced SQL skills**.
+- Currently advancing in: **Advanced SQL skills**.
+
+- Interested in: **Automation, automated workflow**.
 
 - All of my personal project repositories can be found below in the pinned section.
 

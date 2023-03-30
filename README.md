@@ -5,7 +5,7 @@
 
 - Currently advancing in: **Advanced SQL skills**.
 
-- Interested in: **Automation, automated workflow**.
+- Interested in: **Automation, automated dashboard and workflow**.
 
 - All of my personal project repositories can be found below in the pinned section.
 
@@ -13,21 +13,17 @@
 
 <br />
 
-<h3 align="left">
-How to reach me:</h3> berkayersoy17@gmail.com
+
+Email: berkayersoy17@gmail.com
+
+CV: https://drive.google.com/file/d/1So2bD5n1haeSTNVHTux9idrQ6XzWHVBE/view?usp=sharing
 
 
-<h3 align="left">
-Link to my cv:</h3> (https://drive.google.com/file/d/1So2bD5n1haeSTNVHTux9idrQ6XzWHVBE/view?usp=sharing)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/berkayersoy17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkayersoy17" height="30" width="40" /></a><br />
+Connect with me on Linkedin: <a href="https://linkedin.com/in/berkayersoy17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkayersoy17" height="30" width="40" /></a><br />
   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+Languages and Tools:
 
   <p align="left">
   

@@ -16,7 +16,7 @@
 
 Email: berkayersoy17@gmail.com
 
-CV: https://drive.google.com/file/d/1So2bD5n1haeSTNVHTux9idrQ6XzWHVBE/view?usp=sharing
+CV: https://drive.google.com/file/d/1mWx5COjcmj8-6hd2_hIRJRBL-GOXbo8R/view
 
 
 Connect with me on Linkedin: <a href="https://linkedin.com/in/berkayersoy17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkayersoy17" height="30" width="40" /></a><br />

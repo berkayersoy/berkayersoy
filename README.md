@@ -23,19 +23,9 @@ Connect with me on Linkedin: <a href="https://linkedin.com/in/berkayersoy17" tar
   
 </p>
 
-Languages and Tools:
-
-  <p align="left">
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://www.svgviewer.dev/static-svgs/14592/tableau-icon.svg" alt="tableau" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Antu_ms-excel.svg/2048px-Antu_ms-excel.svg.png" alt="excel" width="40" height="40"/> 
+Main stack: Pyhon, MySQL, Power BI/Tableau, Excel
 
 
- 
- 
+
 </p>
 

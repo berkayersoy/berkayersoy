@@ -5,8 +5,6 @@
 
 - Currently advancing in: **Advanced SQL skills**.
 
-- Interested in: **Automation, automated dashboard and workflow**.
-
 - Personal project repositories can be found below in the pinned section.
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif">
